@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanhsi07
+- 👋 Hi, I’m @priyanshi07
 - 👀 I’m interested in creating project that are valuable and is in for the help in any way possible
 - 🌱 I’m currently learning  web devlopment and data analytics.
 - 📫 How to reach me- gmail: priyanshi140702@gmail.com
